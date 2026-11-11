@@ -78,7 +78,7 @@ IF([Peer Listings] >= 10,
 *Add screenshots here:*
 
 ```
-![Market Overview](screenshots/market_overview.png)
+[Market Overview](#)(screenshots/market_overview.png)
 ![Map](screenshots/map.png)
 ![Recommender](screenshots/recommender.png)
 ![Investor Insights](screenshots/investor_insights.png)
