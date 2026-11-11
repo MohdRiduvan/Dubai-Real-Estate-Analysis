@@ -75,14 +75,14 @@ IF([Peer Listings] >= 10,
 | Investor Insights | Ready vs off-plan prices by area, top yield areas, area by beds matrix |
 | Property Detail | Drill-through page with building details and all listings in that building |
 
-*Add screenshots here:*
+*screenshots:*
 
 ```
-[Market Overview](#)(screenshots/market_overview.png)
-![Map](screenshots/map.png)
-![Recommender](screenshots/recommender.png)
-![Investor Insights](screenshots/investor_insights.png)
-![Property Detail](screenshots/property_detail.png)
+[Market Overview](screenshots/Market Overview.png)
+[Map](screenshots/map.png)
+[Recommender](screenshots/recommender.png)
+[Investor Insights](screenshots/investor_insights.png)
+[Property Detail](screenshots/property_detail.png)
 ```
 
 ## Key Findings
@@ -121,5 +121,4 @@ IF([Peer Listings] >= 10,
 
 ## Author
 
-**Your Name**
-[LinkedIn](#) | [GitHub](#)
+**Mohamed Riduuvan Azber**
